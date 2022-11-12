@@ -968,3 +968,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.12-20.37.51:662][271]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/MainMapFF8212574AB2CEAEEB89F996AB8021E2.tmp' to 'D:/UE4_Study/ShootingProject/Content/Maps/MainMap.umap'
 [2022.11.12-20.37.51:673][271]AssetCheck: New page: Asset Save: MainMap
 [2022.11.12-20.37.51:673][271]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.11.12-21.45.18:115][668]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.12-21.45.18:122][668]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.12-21.45.18:131][668]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.12-21.45.23:126][268]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2022.11.12-21.45.23:129][268]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.12-21.45.25:763][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Enemy.BP_Enemy
