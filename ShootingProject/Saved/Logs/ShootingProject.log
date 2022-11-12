@@ -884,3 +884,87 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.12-20.33.26:574][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.11.12-20.33.26:585][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
 [2022.11.12-20.33.26:603][513]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.11.12-20.33.56:661][938]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.12-20.33.56:670][938]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.12-20.33.58:390][145]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2022.11.12-20.33.58:390][145]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.12-20.35.05:983][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="D:/UE4_Study/ShootingProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.12-20.35.06:003][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.12-20.35.06:006][903]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/MainMap14CA49EC4392C59D379F8A891EEDC9DB.tmp' to 'D:/UE4_Study/ShootingProject/Content/Maps/MainMap.umap'
+[2022.11.12-20.35.06:024][903]AssetCheck: New page: Asset Save: MainMap
+[2022.11.12-20.35.06:024][903]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.11.12-20.35.31:527][ 87]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\borad\Downloads\자료실_2장_star-wars-blaster.WAV)
+[2022.11.12-20.36.10:440][960]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/자료실_2장_star-wars-blaster.자료실_2장_star-wars-blaster
+[2022.11.12-20.36.27:143][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/자료실_2장_star-wars-blaster" FILE="D:/UE4_Study/ShootingProject/Content/Audio/자료실_2장_star-wars-blaster.uasset" SILENT=true
+[2022.11.12-20.36.27:144][920]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/자료실_2장_star-wars-blaster2BA88FFB4F49FB97087399806E026D8B.tmp' to 'D:/UE4_Study/ShootingProject/Content/Audio/자료실_2장_star-wars-blaster.uasset'
+[2022.11.12-20.36.27:182][920]AssetCheck: New page: Asset Save: 자료실_2장_star-wars-blaster
+[2022.11.12-20.36.27:182][920]LogContentValidation: Display: Validating SoundWave /Game/Audio/자료실_2장_star-wars-blaster.자료실_2장_star-wars-blaster
+[2022.11.12-20.37.28:676][590]BlueprintLog: New page: Compile BP_Player
+[2022.11.12-20.37.28:700][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.12-20.37.29:302][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="D:/UE4_Study/ShootingProject/Content/BP_Player.uasset" SILENT=true
+[2022.11.12-20.37.29:311][634]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_Player8725106B4C963E84619114B40C28D8A6.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_Player.uasset'
+[2022.11.12-20.37.29:339][634]AssetCheck: New page: Asset Save: BP_Player
+[2022.11.12-20.37.29:339][634]LogContentValidation: Display: Validating Blueprint /Game/BP_Player.BP_Player
+[2022.11.12-20.37.38:811][974]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1f491afd-333e-41de-8dd2-2fbdcbe92a4d}.
+[2022.11.12-20.37.38:811][974]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.12-20.37.38:837][974]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.12-20.37.38:837][974]LogAudioMixer: Display: 1: FrontRight
+[2022.11.12-20.37.40:689][993]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.12-20.37.40:694][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.12-20.37.40:694][993]PIE: New page: PIE session: MainMap (Nov 13, 2022, 2:37:40 PM)
+[2022.11.12-20.37.40:694][993]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.11.12-20.37.40:695][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000590s)
+[2022.11.12-20.37.40:695][993]LogAIModule: Creating AISystem for world MainMap
+[2022.11.12-20.37.40:695][993]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2022.11.12-20.37.40:695][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001261s)
+[2022.11.12-20.37.40:708][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.12-20.37.40:709][993]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.12-20.37.40:709][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.12-20.37.40:709][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.12-20.37.40:709][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.12-20.37.40:709][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.12-20.37.40:709][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.12-20.37.40:709][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.12-20.37.40:709][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.12-20.37.40:709][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.12-20.37.40:709][993]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.12-20.37.40:709][993]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.12-20.37.40:711][993]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.12-20.37.40:711][993]LogAudioMixer: Display: 1: FrontRight
+[2022.11.12-20.37.40:716][993]LogAudioMixer: Display: Using Audio Device 헤드폰(K3000)
+[2022.11.12-20.37.40:717][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.12-20.37.40:717][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.12-20.37.40:717][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.12-20.37.40:717][993]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.12-20.37.40:717][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.12-20.37.40:717][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.12-20.37.40:726][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.12-20.37.40:726][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.12-20.37.40:726][993]LogInit: FAudioDevice initialized.
+[2022.11.12-20.37.40:726][993]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMap'.
+[2022.11.12-20.37.40:735][993]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.11.12-20.37.40:736][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.11.13-05.37.40
+[2022.11.12-20.37.40:736][993]LogWorld: Bringing up level for play took: 0.000245
+[2022.11.12-20.37.40:736][993]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.11.12-20.37.40:737][993]PIE: Server logged in
+[2022.11.12-20.37.40:738][993]PIE: Play in editor total start time 0.045 seconds.
+[2022.11.12-20.37.41:117][ 34]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 자료실_2장_star-wars-blaster...
+[2022.11.12-20.37.41:117][ 34]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/자료실_2장_star-wars-blaster.자료실_2장_star-wars-blaster will be modified from 40 to 40.
+[2022.11.12-20.37.41:142][ 34]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 264600 while cooking SoundWave /Game/Audio/자료실_2장_star-wars-blaster.자료실_2장_star-wars-blaster.
+[2022.11.12-20.37.48:941][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.12-20.37.48:942][966]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.11.12-20.37.48:942][966]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-20.37.48:942][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-20.37.48:949][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.12-20.37.48:952][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-20.37.48:966][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.12-20.37.48:966][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.12-20.37.48:967][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.12-20.37.48:977][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.12-20.37.48:978][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.12-20.37.49:018][968]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.11.12-20.37.51:648][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="D:/UE4_Study/ShootingProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.12-20.37.51:659][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.12-20.37.51:662][271]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/MainMapFF8212574AB2CEAEEB89F996AB8021E2.tmp' to 'D:/UE4_Study/ShootingProject/Content/Maps/MainMap.umap'
+[2022.11.12-20.37.51:673][271]AssetCheck: New page: Asset Save: MainMap
+[2022.11.12-20.37.51:673][271]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
