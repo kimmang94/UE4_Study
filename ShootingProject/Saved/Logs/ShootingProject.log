@@ -974,3 +974,328 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.12-21.45.23:126][268]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
 [2022.11.12-21.45.23:129][268]LogContentBrowser: End creating deferred item NewBlueprint
 [2022.11.12-21.45.25:763][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Enemy.BP_Enemy
+[2022.11.12-22.12.07:243][359]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4ece564a-1d7c-4078-952e-fcb9bdf670df}.
+[2022.11.12-22.12.07:244][359]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.12-22.12.07:302][359]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.12-22.12.07:302][359]LogAudioMixer: Display: 1: FrontRight
+[2022.11.12-22.41.37:708][649]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1f491afd-333e-41de-8dd2-2fbdcbe92a4d}.
+[2022.11.12-22.41.37:709][649]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.12-22.41.37:720][649]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.12-22.41.37:720][649]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-01.16.47:837][618]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4ece564a-1d7c-4078-952e-fcb9bdf670df}.
+[2022.11.13-01.16.47:837][618]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.13-01.16.48:170][618]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-01.16.48:170][618]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-01.33.19:467][571]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1f491afd-333e-41de-8dd2-2fbdcbe92a4d}.
+[2022.11.13-01.33.19:467][571]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.13-01.33.19:480][571]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-01.33.19:480][571]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-01.43.03:881][995]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.13-01.43.05:886][181]BlueprintLog: New page: Compile BP_Enemy
+[2022.11.13-01.43.05:911][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.11.13-01.43.06:367][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Enemy" FILE="D:/UE4_Study/ShootingProject/Content/BP_Enemy.uasset" SILENT=true
+[2022.11.13-01.43.06:372][222]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_Enemy8C6328514EC0D2E93798D0AEDE614702.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_Enemy.uasset'
+[2022.11.13-01.43.06:408][222]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.11.13-01.43.06:408][222]LogContentValidation: Display: Validating Blueprint /Game/BP_Enemy.BP_Enemy
+[2022.11.13-01.43.16:138][353]BlueprintLog: New page: Compile BP_Enemy
+[2022.11.13-01.43.16:161][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.13-01.43.16:639][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Enemy" FILE="D:/UE4_Study/ShootingProject/Content/BP_Enemy.uasset" SILENT=true
+[2022.11.13-01.43.16:643][403]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_Enemy7C95E094487B41E53F12EA9CA87839D5.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_Enemy.uasset'
+[2022.11.13-01.43.16:675][403]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.11.13-01.43.16:675][403]LogContentValidation: Display: Validating Blueprint /Game/BP_Enemy.BP_Enemy
+[2022.11.13-01.43.32:097][183]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Bullet.BP_Bullet
+[2022.11.13-01.44.01:157][902]BlueprintLog: New page: Compile BP_Enemy
+[2022.11.13-01.44.01:182][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.11.13-01.44.01:706][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Enemy" FILE="D:/UE4_Study/ShootingProject/Content/BP_Enemy.uasset" SILENT=true
+[2022.11.13-01.44.01:713][949]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_Enemy16B86C1F4CF1619E7A0F299BC33D277D.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_Enemy.uasset'
+[2022.11.13-01.44.01:721][949]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.11.13-01.44.01:721][949]LogContentValidation: Display: Validating Blueprint /Game/BP_Enemy.BP_Enemy
+[2022.11.13-01.44.24:373][918]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.13-01.44.24:379][918]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.13-01.44.24:386][918]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.13-01.44.35:602][258]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EnemyFacotory
+[2022.11.13-01.44.35:604][258]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.13-01.44.47:245][643]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.45.25:165][669]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.45.25:191][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.13-01.45.25:659][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.45.25:662][717]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotoryE89D2936431158A104025E8FE35F589B.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.45.25:677][717]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.45.25:677][717]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.45.36:243][903]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.45.36:270][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.13-01.45.37:030][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.45.37:032][983]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotoryB31099114D2BCDD2E015479A8BB747F5.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.45.37:048][983]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.45.37:048][983]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.46.40:118][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.11.13-01.46.40:119][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMap' took 0.033
+[2022.11.13-01.46.40:119][124]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_EnemyFacotory] ([1] browsable assets)...
+[2022.11.13-01.46.40:119][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_EnemyFacotory]
+[2022.11.13-01.46.40:119][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Saved/Autosaves/Game/BP_EnemyFacotory_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.11.13-01.46.40:122][124]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotory_Auto13A61308B497F64430CFA7FB0B9454A03.tmp' to 'D:/UE4_Study/ShootingProject/Saved/Autosaves/Game/BP_EnemyFacotory_Auto1.uasset'
+[2022.11.13-01.46.40:123][124]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.11.13-01.46.43:311][378]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.46.43:336][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.13-01.48.33:121][253]LogEditorTransaction: Undo Change Class Pin Value
+[2022.11.13-01.48.34:430][333]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.13-01.49.38:273][234]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.49.38:303][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.13-01.49.38:624][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.49.38:629][268]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotory3E293E554CA02561BE1D9EBDD9C2609A.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.49.38:642][268]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.49.38:642][268]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.50.08:935][642]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.50.08:960][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.11.13-01.50.09:337][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.50.09:341][680]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotory54E6F8794564CEB8EA8AA3ACFA44983D.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.50.09:355][680]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.50.09:355][680]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.50.47:567][742]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.50.47:593][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.13-01.50.48:119][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.50.48:124][792]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotory2D129C724C7FB92898C199A219474CB5.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.50.48:138][792]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.50.48:138][792]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.50.48:528][838]LogEditorViewport: Clicking Background
+[2022.11.13-01.50.51:762][109]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-01.50.51:766][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-01.50.51:766][109]PIE: New page: PIE session: MainMap (Nov 13, 2022, 7:50:51 PM)
+[2022.11.13-01.50.51:786][109]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.11.13-01.50.51:787][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000645s)
+[2022.11.13-01.50.51:788][109]LogAIModule: Creating AISystem for world MainMap
+[2022.11.13-01.50.51:788][109]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2022.11.13-01.50.51:788][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001416s)
+[2022.11.13-01.50.51:804][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.13-01.50.51:805][109]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.13-01.50.51:805][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-01.50.51:805][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-01.50.51:805][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-01.50.51:805][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-01.50.51:805][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-01.50.51:805][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-01.50.51:805][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-01.50.51:805][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-01.50.51:805][109]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-01.50.51:805][109]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-01.50.51:808][109]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-01.50.51:808][109]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-01.50.51:816][109]LogAudioMixer: Display: Using Audio Device 헤드폰(K3000)
+[2022.11.13-01.50.51:816][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-01.50.51:816][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-01.50.51:816][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-01.50.51:816][109]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-01.50.51:816][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-01.50.51:816][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-01.50.51:826][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-01.50.51:826][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-01.50.51:826][109]LogInit: FAudioDevice initialized.
+[2022.11.13-01.50.51:826][109]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMap'.
+[2022.11.13-01.50.51:836][109]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.11.13-01.50.51:836][109]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.11.13-10.50.51
+[2022.11.13-01.50.51:836][109]LogWorld: Bringing up level for play took: 0.000358
+[2022.11.13-01.50.51:836][109]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.11.13-01.50.51:838][109]PIE: Server logged in
+[2022.11.13-01.50.51:838][109]PIE: Play in editor total start time 0.074 seconds.
+[2022.11.13-01.50.55:598][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-01.50.55:598][555]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.11.13-01.50.55:598][555]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-01.50.55:598][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-01.50.55:602][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-01.50.55:604][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-01.50.55:619][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-01.50.55:619][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-01.50.55:620][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-01.50.55:629][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-01.50.55:631][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.13-01.50.55:676][560]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.11.13-01.51.19:053][261]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.51.19:086][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.13-01.51.19:480][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.51.19:485][288]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotory3305E104424D64B44AEFD3BB08C9317C.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.51.19:498][288]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.51.19:498][288]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.51.58:052][677]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.51.58:081][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.11.13-01.51.58:797][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.51.58:802][748]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotory300A83BF4B7FF60D1D917884D9A96F5D.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.51.58:815][748]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.51.58:815][748]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.52.00:445][885]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-01.52.00:449][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-01.52.00:449][885]PIE: New page: PIE session: MainMap (Nov 13, 2022, 7:52:00 PM)
+[2022.11.13-01.52.00:486][885]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.11.13-01.52.00:487][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000677s)
+[2022.11.13-01.52.00:488][885]LogAIModule: Creating AISystem for world MainMap
+[2022.11.13-01.52.00:488][885]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2022.11.13-01.52.00:488][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001435s)
+[2022.11.13-01.52.00:510][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.11.13-01.52.00:510][885]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.13-01.52.00:510][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-01.52.00:510][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-01.52.00:510][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-01.52.00:510][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-01.52.00:510][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-01.52.00:510][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-01.52.00:510][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-01.52.00:510][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-01.52.00:511][885]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-01.52.00:511][885]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-01.52.00:513][885]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-01.52.00:513][885]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-01.52.00:518][885]LogAudioMixer: Display: Using Audio Device 헤드폰(K3000)
+[2022.11.13-01.52.00:518][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-01.52.00:518][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-01.52.00:518][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-01.52.00:519][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-01.52.00:519][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-01.52.00:519][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-01.52.00:519][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-01.52.00:519][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-01.52.00:519][885]LogInit: FAudioDevice initialized.
+[2022.11.13-01.52.00:519][885]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMap'.
+[2022.11.13-01.52.00:531][885]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.11.13-01.52.00:531][885]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.11.13-10.52.00
+[2022.11.13-01.52.00:531][885]LogWorld: Bringing up level for play took: 0.000252
+[2022.11.13-01.52.00:531][885]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.11.13-01.52.00:533][885]PIE: Server logged in
+[2022.11.13-01.52.00:533][885]PIE: Play in editor total start time 0.086 seconds.
+[2022.11.13-01.52.06:938][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-01.52.06:938][648]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.11.13-01.52.06:938][648]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-01.52.06:938][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-01.52.06:942][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-01.52.06:944][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-01.52.06:959][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-01.52.06:959][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-01.52.06:960][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-01.52.06:970][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-01.52.06:972][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.13-01.52.07:010][650]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.11.13-01.52.57:593][499]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.52.57:618][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.13-01.52.57:985][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.52.57:991][530]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotory3CDA532445F774E981EB9E873FC4F1CA.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.52.58:003][530]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.52.58:003][530]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.53.00:268][747]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-01.53.00:273][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-01.53.00:273][747]PIE: New page: PIE session: MainMap (Nov 13, 2022, 7:53:00 PM)
+[2022.11.13-01.53.00:297][747]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.11.13-01.53.00:297][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000615s)
+[2022.11.13-01.53.00:297][747]LogAIModule: Creating AISystem for world MainMap
+[2022.11.13-01.53.00:298][747]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2022.11.13-01.53.00:298][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001292s)
+[2022.11.13-01.53.00:317][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.11.13-01.53.00:317][747]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.11.13-01.53.00:317][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-01.53.00:317][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-01.53.00:317][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-01.53.00:317][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-01.53.00:317][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-01.53.00:317][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-01.53.00:317][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-01.53.00:317][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-01.53.00:317][747]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-01.53.00:318][747]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-01.53.00:320][747]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-01.53.00:320][747]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-01.53.00:327][747]LogAudioMixer: Display: Using Audio Device 헤드폰(K3000)
+[2022.11.13-01.53.00:327][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-01.53.00:327][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-01.53.00:327][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-01.53.00:328][747]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-01.53.00:328][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-01.53.00:328][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-01.53.00:337][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-01.53.00:337][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-01.53.00:337][747]LogInit: FAudioDevice initialized.
+[2022.11.13-01.53.00:337][747]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMap'.
+[2022.11.13-01.53.00:342][747]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.11.13-01.53.00:342][747]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.11.13-10.53.00
+[2022.11.13-01.53.00:342][747]LogWorld: Bringing up level for play took: 0.000252
+[2022.11.13-01.53.00:342][747]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.11.13-01.53.00:344][747]PIE: Server logged in
+[2022.11.13-01.53.00:344][747]PIE: Play in editor total start time 0.073 seconds.
+[2022.11.13-01.53.08:258][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-01.53.08:258][654]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.11.13-01.53.08:258][654]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-01.53.08:258][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-01.53.08:265][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-01.53.08:267][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-01.53.08:286][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-01.53.08:286][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-01.53.08:286][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-01.53.08:296][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-01.53.08:298][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.11.13-01.53.08:322][656]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.11.13-01.54.20:132][ 44]BlueprintLog: New page: Compile BP_EnemyFacotory
+[2022.11.13-01.54.20:165][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.11.13-01.54.20:614][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.54.20:619][ 82]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotory66F6F26249D6529AE4ACF0AEAF964839.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.54.20:704][ 82]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.54.20:704][ 82]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.56.27:502][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyFacotory" FILE="D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset" SILENT=true
+[2022.11.13-01.56.27:507][916]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/BP_EnemyFacotoryFDF797AB4400725F0FAF098317FE434E.tmp' to 'D:/UE4_Study/ShootingProject/Content/BP_EnemyFacotory.uasset'
+[2022.11.13-01.56.27:522][916]AssetCheck: New page: Asset Save: BP_EnemyFacotory
+[2022.11.13-01.56.27:522][916]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyFacotory.BP_EnemyFacotory
+[2022.11.13-01.57.12:203][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="D:/UE4_Study/ShootingProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-01.57.12:222][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.13-01.57.12:224][667]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/MainMap18D3840546015FF1259799A6AC9EAF1B.tmp' to 'D:/UE4_Study/ShootingProject/Content/Maps/MainMap.umap'
+[2022.11.13-01.57.12:235][667]AssetCheck: New page: Asset Save: MainMap
+[2022.11.13-01.57.12:236][667]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.11.13-01.57.13:343][768]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-01.57.13:349][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-01.57.13:350][768]PIE: New page: PIE session: MainMap (Nov 13, 2022, 7:57:13 PM)
+[2022.11.13-01.57.13:350][768]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.11.13-01.57.13:350][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000828s)
+[2022.11.13-01.57.13:351][768]LogAIModule: Creating AISystem for world MainMap
+[2022.11.13-01.57.13:351][768]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2022.11.13-01.57.13:351][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001629s)
+[2022.11.13-01.57.13:369][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.13-01.57.13:369][768]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.11.13-01.57.13:369][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-01.57.13:369][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-01.57.13:369][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-01.57.13:369][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-01.57.13:369][768]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-01.57.13:369][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-01.57.13:369][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-01.57.13:369][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-01.57.13:369][768]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-01.57.13:369][768]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-01.57.13:372][768]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-01.57.13:372][768]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-01.57.13:379][768]LogAudioMixer: Display: Using Audio Device 헤드폰(K3000)
+[2022.11.13-01.57.13:380][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-01.57.13:380][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-01.57.13:380][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-01.57.13:380][768]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-01.57.13:380][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-01.57.13:380][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-01.57.13:389][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-01.57.13:389][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-01.57.13:389][768]LogInit: FAudioDevice initialized.
+[2022.11.13-01.57.13:389][768]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMap'.
+[2022.11.13-01.57.13:399][768]LogLoad: Game class is 'BP_GameModeBase_C'
+[2022.11.13-01.57.13:400][768]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.11.13-10.57.13
+[2022.11.13-01.57.13:400][768]LogWorld: Bringing up level for play took: 0.000256
+[2022.11.13-01.57.13:400][768]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.11.13-01.57.13:401][768]PIE: Server logged in
+[2022.11.13-01.57.13:401][768]PIE: Play in editor total start time 0.056 seconds.
+[2022.11.13-01.57.22:797][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-01.57.22:797][885]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.11.13-01.57.22:797][885]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-01.57.22:797][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-01.57.22:809][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-01.57.22:813][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-01.57.22:827][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-01.57.22:827][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-01.57.22:828][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-01.57.22:840][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.13-01.57.22:873][886]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.11.13-01.57.23:474][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="D:/UE4_Study/ShootingProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-01.57.23:490][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.13-01.57.23:493][955]LogSavePackage: Moving 'D:/UE4_Study/ShootingProject/Saved/MainMap5246C3F54C72118A0FE4BC8344BA2F30.tmp' to 'D:/UE4_Study/ShootingProject/Content/Maps/MainMap.umap'
+[2022.11.13-01.57.23:507][955]AssetCheck: New page: Asset Save: MainMap
+[2022.11.13-01.57.23:507][955]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
